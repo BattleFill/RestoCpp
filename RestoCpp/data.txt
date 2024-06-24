@@ -1,0 +1,18 @@
+5
+Admin Admin Admin admin admin 0
+1 1 1 1 1 1
+2 2 2 2 2 2
+3 3 3 3 3 3
+0 0 0 0 0 0
+6
+1 Tomato 1
+2 Cheese 1.5
+3 Dough 2
+4 Basil 0.5
+5 Chicken 3
+6 Lettuce 0.7
+2
+Margherita Pizza
+4 1 2 3 4 Classic pizza with tomato, cheese, dough, and basil. 8 15
+Chicken Salad
+2 5 6 Healthy salad with chicken and lettuce. 6 10
